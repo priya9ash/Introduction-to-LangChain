@@ -1,3 +1,4 @@
 API key storing process:https://www.analyticsvidhya.com/blog/2024/12/env-files-in-python/ 
 
 How to Use Secrets in Google Colab for API Key Protection: A Guide for OpenAI, HuggingFace, and Kaggle:https://drlee.io/how-to-use-secrets-in-google-colab-for-api-key-protection-a-guide-for-openai-huggingface-and-c1ec9e1277e0
+How to Build a Simple LLM Application with LCEL? : https://www.analyticsvidhya.com/blog/2024/10/llm-application-with-lcel/
